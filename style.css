@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(to top, #E065BB,#6A94D4);
+}
+
+.link-header {
+    font-family:script;
+    font-size:25px;
+    text-decoration:none;
+    color: #7D0057;
+}
+
+.link-nav {
+    font-family:script;
+    font-size:20px;
+    text-decoration:none;
+    color: #7D0057; 
+}
+
+footer{
+    background-image:linear-gradient(to right, #FFB840,#C7F83E);
+}
